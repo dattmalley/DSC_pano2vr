@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama apprev="18116" appversion="6.1.15" id="node1">
+  <input levelbias="0.400" levelingroll="0" overlap="1" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" width="3007" height="3007">
+    <level predecode="0" preload="0" width="3007" height="3007"/>
+    <level predecode="0" preload="0" width="1503" height="1503"/>
+    <level predecode="0" preload="0" width="751" height="751"/>
+    <level predecode="1" preload="1" width="375" height="375"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view fovmode="0" pannorth="63.5057">
+    <start projection="4" tilt="0" pan="-180" fov="130"/>
+    <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+    <min tilt="-90" pan="0" fovpixel="2"/>
+    <max tilt="90" pan="360" fovstereographic="270" fovfisheye="360" scaletofit="1" fov="120"/>
+  </view>
+  <userdata description="Longhorn cattle in Highland Utah." heading="63.5057" nodeid="node1" datetime="11/29/22 8:42 PM" customnodeid="" author="Matt Dalley" comment="" title="Dirty Spur Cattle" tags="Jaycee-UVU|Panos" longitude="-111.80340887" info="" copyright="" source="" latitude="40.43480094"/>
+  <hotspots wordwrap="1" width="180" height="20">
+    <label backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" background="1" wordwrap="1" borderalpha="1" borderradius="1" textalpha="1" backgroundalpha="1" width="180" textcolor="0x000000" border="1" height="20"/>
+    <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+    <hotspot description="" tilt="-2.72" target="" pan="-236.84" title="" url="images/DSC01108 copy Medium.jpeg" id="Point01" skinid="ht_image"/>
+  </hotspots>
+  <media>
+    <sound nodechangekeep="0" ambientlevel="0.000" tilt="0.070" field="56.000" pan="-328.080" loop="1" pansize="8.000" mode="3" startmutedmobile="0" id="Element01" tiltsize="5.000" level="1.000">
+      <source url="media/Y2Mate.is - 10 cow mooing sound variations in 70 seconds-3ZUye10Dd2M-128k-1654782428147.mp3"/>
+    </sound>
+  </media>
+  <transition type="crossdissolve" zoomoutpause="1" zoomin="0" softedge="0" zoomspeed="2" enabled="1" blendtime="1" zoomafteroutfov="20" zoomout="0" zoomafterinfov="90" blendcolor="0x000000" zoomfov="20"/>
+  <autorotate noderandom="1" speed="0.050" startloaded="0" enabled="1" nodedelay="0.00" delay="10.00" returntohorizon="0.000" useanimation="0" nodefilter=""/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control lockedmouse="0" contextfullscreen="1" simulatemass="1" invertwheel="0" invertcontrol="1" lockedwheel="0" rubberband="0" contextvr="1" contextprojections="0" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8"/>
+</panorama>
